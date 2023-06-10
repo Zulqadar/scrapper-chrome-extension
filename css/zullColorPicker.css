@@ -1,0 +1,12 @@
+#zullColorBox {
+    width: 20px;
+    height: 20px;
+    border: 1px solid red;
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    z-index: 10000;
+    display: none;
+}

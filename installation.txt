@@ -1,0 +1,14 @@
+//Created By: Zulqadar Idrishi
+//Below are some steps to use and install it on Chrome
+
+STEPS->:
+    i. Go to Chrome Extensions Settings by the Following Path:
+        chrome://extensions/
+    ii. Enable 'Developer mode' to on
+    iii. Click on 'Load Unpacked'
+    iv. Choose the folder where you have put your Chrome Extension Project
+    V. Click 'OK'
+    Vi. You will see Your Extension is added to chrome, Now click on 'Refresh icon' given inside your extension
+    vii. See the tab url bar and You will your extension
+    viii. Click on Icon of your Extension and Use.
+    ix. Hurrah... We successfully created our First Chrome Extension
